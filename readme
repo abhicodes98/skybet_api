@@ -1,3 +1,3 @@
  1. install dependencies using  "pip install -r requirements.txt"
  2. run app using "python api.py"
- 3. provide game_id using url "domain/api?g_id=<game_id>"  t get data
+ 3. provide game_id using url "domain/api?g_id=<game_id>"  to get data
